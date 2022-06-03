@@ -1,0 +1,15 @@
+.buttone,
+.buttwo{
+    font-size: 28px;
+    font-family: verdana, 'Times New Roman',sans-serif;
+}
+
+.buttone{
+    color: white;
+    background-color: black;
+}
+
+.buttwo{
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+}

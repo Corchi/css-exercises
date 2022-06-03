@@ -1,0 +1,20 @@
+.odd{
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: rgb(255, 202, 202);
+}
+
+.oddly-cool {
+    font-size: 24px;
+}
+
+#numerodos {
+    color: rgb(72, 62, 255);
+    background-color: white;
+    font-size: 36px;
+}
+
+#numerocuatro {
+    background-color: rgb(217, 255, 181);
+    font-size: 24px;
+    font-weight: bold;
+}
